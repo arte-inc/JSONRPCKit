@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Result",
+        "repositoryURL": "https://github.com/arte-inc/Result",
+        "state": {
+          "branch": "arm64",
+          "revision": "37dc5c28a4bf71d568f1bf40bdbf261ddcbb7802",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
